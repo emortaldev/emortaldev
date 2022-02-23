@@ -1,5 +1,5 @@
 # <code>println("Hiya 👋 I'm emortal!")</code>
-I am the owner of a not-so-popular work-in-progress Minecraft network conveniently named [EmortalMC](https://github.com/EmortalMC)
+I am the owner of a Minecraft network conveniently named [EmortalMC](https://github.com/EmortalMC)
 
 🔗 [EmortalMC Discord](https://discord.gg/TZyuMSha96)
 
