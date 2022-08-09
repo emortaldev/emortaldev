@@ -28,7 +28,7 @@
 					sans-serif;
 				  margin: 0;
 				  font-size: 3.75em;
-				  font-weight: 900;
+				  font-weight: 950;
 				  letter-spacing: -.05em;
 				  text-align: center;
 					float: center;
@@ -39,8 +39,8 @@
 					-webkit-text-stroke: 0.5px white;
 				}
 				.text {
-					background: -webkit-linear-gradient(right,#F652A0,#36EEE0);
-				  background: linear-gradient(270deg,#F652A0 0,#36EEE0);
+					background: -webkit-linear-gradient(right,#eb34e5,#eba834);
+				  background: linear-gradient(300deg,#eb34e5 0,#eba834);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
@@ -50,7 +50,7 @@
 				}
 			</style>
 			<h1>
-				<span class="normal">Hiya, I'm </span><span class="text">Rice</span>
+				<span class="normal">Hey! I'm </span><span class="text">emortal</span>
 			</h1>
 		</div>
 	</foreignObject>
