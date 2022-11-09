@@ -20,8 +20,4 @@ yeah that's about it, go stalk me I guess 😎
   </a>
 </div>
 
-###
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=261498586611712000)
-
 ###### © me | leaking memory since 2021
