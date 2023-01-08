@@ -1,4 +1,4 @@
-# <code>println("Hiya \u1F44B I'm emortal!")</code>
+# <code>println("Heyo \u1F44B I'm emortal!")</code>
 I am the owner of a Minecraft network that uses Minestom conveniently named [EmortalMC](https://github.com/EmortalMC)
 
 yeah that's about it, go stalk me I guess 😎
