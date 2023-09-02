@@ -3,6 +3,8 @@ I am the owner of a Minecraft network that uses Minestom conveniently named [Emo
 
 yeah that's about it, go stalk me I guess 😎
 
+![boops](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emortaldev&count_private=true&show_icons=true&theme=midnight-purple)
+
 ### 
 
 <div align="left">
