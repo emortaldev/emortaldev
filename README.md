@@ -12,7 +12,7 @@
   </a>
   </a>
   <a href="https://ko-fi.com/emortal" target="_blank">
-    <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="40" height="45" hspace="8" alt="ko-fi logo"  />
+    <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="45" height="45" hspace="8" alt="ko-fi logo"  />
   </a>
 </div>
 
