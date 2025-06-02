@@ -22,7 +22,10 @@
 - Helped on [McWar](https://github.com/mcwarproject)
 
 ### Projects
+- View your screen within Minecraft blocks [BlockScreen](https://github.com/emortaldev/BlockScreen)
 - Polar world format for Paper: [PolarPaper](https://github.com/MinehubMC/PolarPaper)
 - Luckperms Golang wrapper: [go-lucky](https://github.com/MinehubMC/go-lucky)
 - Physics Engine used in Minecraft: [BlockPhysics](https://github.com/emortaldev/BlockPhysics)
 - Discord music and moderation bot: [Xeno](https://github.com/emortaldev/Xeno)
+- Gmod lidar recreation: [minestom-lidar](https://github.com/emortaldev/minestom-lidar)
+- Superliminal optical illusion recreation: [minestom-superliminal](https://github.com/emortaldev/minestom-superliminal)
