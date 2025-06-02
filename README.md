@@ -22,7 +22,7 @@
 - Helped on [McWar](https://github.com/mcwarproject)
 
 ### Projects
-- View your screen within Minecraft blocks [BlockScreen](https://github.com/emortaldev/BlockScreen)
+- View your screen within Minecraft blocks: [BlockScreen](https://github.com/emortaldev/BlockScreen)
 - Polar world format for Paper: [PolarPaper](https://github.com/MinehubMC/PolarPaper)
 - Luckperms Golang wrapper: [go-lucky](https://github.com/MinehubMC/go-lucky)
 - Physics Engine used in Minecraft: [BlockPhysics](https://github.com/emortaldev/BlockPhysics)
